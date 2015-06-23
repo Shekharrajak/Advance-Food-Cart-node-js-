@@ -1,0 +1,19 @@
+{
+  "name": "food-cart",
+  "version": "1.0.0",
+  "description": "a advance food cart ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Shekharrajak/Advance-Food-Cart-node-js-.git"
+  },
+  "author": "shekhar ,based on tutorial in youtube",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shekharrajak/Advance-Food-Cart-node-js-/issues"
+  },
+  "homepage": "https://github.com/Shekharrajak/Advance-Food-Cart-node-js-#readme"
+}
