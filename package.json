@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Shekharrajak/Advance-Food-Cart-node-js-/issues"
   },
-  "homepage": "https://github.com/Shekharrajak/Advance-Food-Cart-node-js-#readme"
+  "homepage": "https://github.com/Shekharrajak/Advance-Food-Cart-node-js-#readme",
+  "dependencies": {
+    "express": "^4.13.0"
+  }
 }
